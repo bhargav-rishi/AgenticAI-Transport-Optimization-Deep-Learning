@@ -21,6 +21,7 @@ The project project was developed as part of the Deep Learning course at the **U
 
 ## Dataset (FAF4)
 Sourced from the U.S. Department of Transportation - https://www.bts.gov/faf/faf4
+
 Includes:
 - `dms_orig`, `dms_dest`: Origin/Destination zones
 - `tons_2012`, `value_2012`, `tmiles_2012`: Shipment weight, cost, and distance
@@ -49,7 +50,7 @@ Code/
 ├── Goal_Driven_Agent.py # Goal-oriented agent logic
 ├── Dynamic_Function.py # Year-based forecasting for 2050, etc.
 ├── Q_Learning.py # Reinforcement learning implementation
-├── presentation/
+├── Presentation/
 │ └── Presentation.docx # Project presentation file
 |README.md
 </pre>
