@@ -44,15 +44,15 @@ Includes:
 
 ## File Structure
 <pre>
-Code/
-├── AgenticAI_Transport_Optimization_Final.ipynb # Main notebook
-├── NN_Model.py # Deep learning pipeline (cost prediction)
-├── Goal_Driven_Agent.py # Goal-oriented agent logic
-├── Dynamic_Function.py # Year-based forecasting for 2050, etc.
-├── Q_Learning.py # Reinforcement learning implementation
+├──Code/
+│ └── AgenticAI_Transport_Optimization_Final.ipynb   # Main notebook
+│ └── NN_Model.py   # Deep learning pipeline (cost prediction)
+│ └── Goal_Driven_Agent.py   # Goal-oriented agent logic
+│ └── Dynamic_Function.py   # Year-based forecasting for 2050, etc.
+│ └── Q_Learning.py   # Reinforcement learning implementation
 ├── Presentation/
-│ └── Presentation.docx # Project presentation file
-|README.md
+│ └── Presentation.docx   # Project presentation file
+└──README.md
 </pre>
 ---
 
